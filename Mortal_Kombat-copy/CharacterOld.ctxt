@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CharacterOld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Character\ here.\r\n\ heranca\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ weapon\ homeland\ fightingStyles\ height
+comment1.target=CharacterOld(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CharacterOld\r\n
+comment10.params=
+comment10.target=java.lang.String\ generateAttack()
+comment11.params=
+comment11.target=void\ sufferAttack()
+comment2.params=
+comment2.target=int\ getEnergy()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getWeapon()
+comment5.params=
+comment5.target=java.lang.String\ getHomeland()
+comment6.params=
+comment6.target=java.lang.String\ getFightingStyles()
+comment7.params=
+comment7.target=double\ getHeight()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=java.lang.String\ selectAtack()
+numComments=12
